@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "pname": "Tuborg",
+      "pprice": "2000",
+      "pqty": "12",
+      "id": 1
+    },
+    {
+      "pname": "magic moments",
+      "pprice": "2000",
+      "pqty": "10000",
+      "id": 3
+    },
+    {
+      "pname": "teachers!!!",
+      "pprice": "1520",
+      "pqty": "200",
+      "id": 4
+    },
+    {
+      "pname": "Black Dog",
+      "pprice": "1500",
+      "pqty": "20000",
+      "id": 6
+    }
+  ]
+}
